@@ -39,7 +39,7 @@ const makePatch = (dogObject) => {
             Accept: 'application/json',
         },
         body: JSON.stringify(dogObject),
-    }).then(res => res.json()).then(updatedDogObj => updatedDogObj).then(doesntWorkWithoutThis => rerun());
+    }).then(res => res.json()).then(rerun);
 };
 
 // * Event Listener for Edit Buttons on the Table Body.
