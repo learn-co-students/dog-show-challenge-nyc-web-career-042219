@@ -1,0 +1,24 @@
+{
+  "name": "dog-show-challenge-nyc-web-career-042219",
+  "version": "1.0.0",
+  "description": "You are responsible for managing the website for the Westminster Kennel Club Dog Show. These dog owners are _very_ competitive. We need to make sure that they can view all the competition (the other dogs) and edit their dog's information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JsnGmz/dog-show-challenge-nyc-web-career-042219.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JsnGmz/dog-show-challenge-nyc-web-career-042219/issues"
+  },
+  "homepage": "https://github.com/JsnGmz/dog-show-challenge-nyc-web-career-042219#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3"
+  }
+}
